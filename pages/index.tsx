@@ -1,5 +1,5 @@
 import { Inter } from "next/font/google";
 
 export default function Home() {
-  return <div>Hello world! </div>;
+  return <div className=" text-teal-50">Hello world! </div>;
 }
